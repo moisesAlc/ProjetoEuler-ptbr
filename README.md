@@ -1,7 +1,9 @@
 # ProjetoEuler-ptbr
 Projeto Euler em Português Brasileiro
 
-A ideia aqui é criar um repositório em português do Projeto Euler (https://projecteuler.net/), respeitando a licença Creative Commons. O objetivo é apenas traduzir para o português os exercícios. Ir para os problemas: https://github.com/moisesAlc/ProjetoEuler-ptbr/blob/dev/problemas.md
+A ideia aqui é criar um repositório em português do Projeto Euler (https://projecteuler.net/), respeitando a licença Creative Commons. O objetivo é apenas traduzir para o português os exercícios. 
+
+*Arquivo com uma parte dos problemas traduzidos: :point_right: https://github.com/moisesAlc/ProjetoEuler-ptbr/blob/dev/problemas.md*
 
 -----
 
